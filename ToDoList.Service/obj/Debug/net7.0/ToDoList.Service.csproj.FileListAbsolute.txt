@@ -1,0 +1,17 @@
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.deps.json
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.Service.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.AssemblyReference.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.AssemblyInfoInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.AssemblyInfo.cs
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.CoreCompileInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.csproj.CopyComplete
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\refint\ToDoList.Service.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ToDoList.Service.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Service\obj\Debug\net7.0\ref\ToDoList.Service.dll

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ToDoList.DAL\ToDoList.DAL.csproj" />
+      <ProjectReference Include="..\ToDoList.Domain\ToDoList.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

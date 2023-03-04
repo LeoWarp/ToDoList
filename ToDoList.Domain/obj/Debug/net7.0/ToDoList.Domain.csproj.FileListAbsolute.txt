@@ -1,0 +1,12 @@
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\bin\Debug\net7.0\ToDoList.Domain.deps.json
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.csproj.AssemblyReference.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\refint\ToDoList.Domain.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.Domain\obj\Debug\net7.0\ref\ToDoList.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.deps.json
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfo.cs
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CopyComplete
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\refint\ToDoList.DAL.dll
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\leowa\Desktop\YouTube\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ref\ToDoList.DAL.dll
